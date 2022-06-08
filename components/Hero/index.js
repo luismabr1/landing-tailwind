@@ -19,8 +19,8 @@ const Hero = () => {
 					Explorar
 				</button>
 			</div>
-			<div class="w-full h-full bg-cover lg:bg-cover lg:bg-sanFranciscoDesktop lg:bg-center">
-				<img class="w-full h-full lg:hidden" src="/img/sanFrancisco.jpg" alt="" />
+			<div className="w-full h-full bg-cover lg:bg-cover lg:bg-sanFranciscoDesktop lg:bg-center">
+				<img className="w-full h-full lg:hidden" src="/img/sanFrancisco.jpg" alt="" />
 			</div>
 		</div>
         </>
